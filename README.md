@@ -7,7 +7,7 @@ If you zoom inside the map and you can see the default black/blank map insert th
 
 Check Code: README.lua
 
-
+screenshot.jpeg	
 
 If you want to need any help contact me in Discord : ShadowRemove#9096
 Discord Server : https://discord.gg/XGv6TDS
